@@ -1,0 +1,71 @@
+p {
+	color:red;
+	font-size: 100px;
+	font-family: sans-serif;
+	background: pink;
+}
+
+div{
+	width: 200px;
+	height: 800px;
+}
+
+.box {
+	width:50px;
+	height: 50px;
+}
+
+#blue-box {
+	position:absolute;
+	top: 100px;
+	left: 100px;
+	background:blue;
+
+}
+
+#red-box{
+	background:red;
+}
+
+#green-box{
+	background:green;
+}
+
+#A {
+	position:relative;
+}
+
+#left-side{
+	height:100px;
+	width:20px;
+	background: black;
+}
+
+#top{
+	height: 20px;
+	width: 80px;
+	background: black;
+	position: absolute;
+	top:0px;
+	left:0px;
+}
+
+#right-side{
+	position:absolute;
+	top: 0px;
+	left: 80px;
+	height:100px;
+	width:20px;
+	background:black;
+
+}
+
+#cross-bar{
+position:absolute;
+top: 30px;
+left:30px;
+height:10px;
+width:80px;
+background:black;
+
+}
